@@ -449,7 +449,7 @@ h3 {
 }
 
 .featured-card a {
-  color: #ffffff;
+  color: var(--primary-text);
 }
 
 .plugin-card a:hover,
